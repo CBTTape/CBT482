@@ -1,0 +1,10 @@
+2023-08-06 04:48:11.919370 - Initialized conversion of CBT482
+2023-08-06 04:48:11.986577 - Received CBT.V505.FILE482.PDS from FILE482.XMI 
+2023-08-06 04:48:11.988862 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE482.PDS, moved to PDS/$$$#DATE
+2023-08-06 04:48:11.989882 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE482.PDS, moved to PDS/$$NOTE1
+2023-08-06 04:48:11.990889 - Found $EPILOG.txt (text/plain) in CBT.V505.FILE482.PDS, moved to PDS/$EPILOG
+2023-08-06 04:48:11.991881 - Found $PROLOG.txt (text/plain) in CBT.V505.FILE482.PDS, moved to PDS/$PROLOG
+2023-08-06 04:48:11.992897 - Found $REGS.txt (text/plain) in CBT.V505.FILE482.PDS, moved to PDS/$REGS
+2023-08-06 04:48:11.993900 - Found @FILE482.txt (text/plain) in CBT.V505.FILE482.PDS, moved to PDS/@FILE482
+2023-08-06 04:48:11.994907 - Found GDGCOPY.txt (text/plain) in CBT.V505.FILE482.PDS, moved to PDS/GDGCOPY
+2023-08-06 04:48:11.995813 - Found GDGCOPYO.txt (text/plain) in CBT.V505.FILE482.PDS, moved to PDS/GDGCOPYO
