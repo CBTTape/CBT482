@@ -1,9 +1,9 @@
-2025-04-13 20:03:19.807915 - Received CBT.V508.FILE482.PDS from FILE482.XMI 
-2025-04-13 20:03:19.808728 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$$$#DATE
-2025-04-13 20:03:19.808813 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$$NOTE1
-2025-04-13 20:03:19.808877 - Found $EPILOG.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$EPILOG
-2025-04-13 20:03:19.808944 - Found $PROLOG.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$PROLOG
-2025-04-13 20:03:19.809004 - Found $REGS.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$REGS
-2025-04-13 20:03:19.809064 - Found @FILE482.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/@FILE482
-2025-04-13 20:03:19.809176 - Found GDGCOPY.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/GDGCOPY
-2025-04-13 20:03:19.809264 - Found GDGCOPYO.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/GDGCOPYO
+2025-04-15 02:51:28.676694 - Received CBT.V508.FILE482.PDS from FILE482.XMI 
+2025-04-15 02:51:28.678005 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$$$#DATE
+2025-04-15 02:51:28.678339 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$$NOTE1
+2025-04-15 02:51:28.678658 - Found $EPILOG.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$EPILOG
+2025-04-15 02:51:28.679027 - Found $PROLOG.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$PROLOG
+2025-04-15 02:51:28.679350 - Found $REGS.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/$REGS
+2025-04-15 02:51:28.679671 - Found @FILE482.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/@FILE482
+2025-04-15 02:51:28.680152 - Found GDGCOPY.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/GDGCOPY
+2025-04-15 02:51:28.680760 - Found GDGCOPYO.txt (text/plain) in CBT.V508.FILE482.PDS, moved to PDS/GDGCOPYO
